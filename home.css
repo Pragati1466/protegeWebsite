@@ -322,7 +322,6 @@ body {
     font-size: 28px;
     color: #142d4c;
     font-weight: bold;
-    text-transform: uppercase;
     margin-bottom: 25px;
 }
 
@@ -997,7 +996,7 @@ a {
     border-style: groove;
     border-radius: 10px;
 }
-.event-heading {
+.events-heading {
     font-family: Rajdhani;
     font-size: 40px;
     text-align: center;
@@ -1644,7 +1643,7 @@ h1 {
 }
 
 /* Events Section Heading Styles */
-.events-section h1 {
+/* .events-section h1 {
     text-align: center;
     color: var(--text-color);
     margin-bottom: 3rem;
@@ -1655,7 +1654,7 @@ h1 {
     padding-bottom: 10px;
     margin-left: 50%;
     transform: translateX(-50%);
-}
+} */
 
 .events-section h1::after {
     content: '';
